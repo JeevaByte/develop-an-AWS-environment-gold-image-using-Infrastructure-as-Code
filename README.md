@@ -76,3 +76,4 @@ The architecture implements a modular approach with the following components:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.# develop-an-AWS-environment-gold-image-using-Infrastructure-as-Code
+# develop-an-AWS-environment-gold-image-using-Infrastructure-as-Code
